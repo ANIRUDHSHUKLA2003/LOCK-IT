@@ -9,3 +9,25 @@
  The password is visible in encrypted format. The user can unhide the password and view the password details. 
  The user can save any number of account information using this tool.
 Lockit contains a notes manger feature which allows users to save their notes of daily life along with some media attachments
+## SCREENSHOT
+
+![WhatsApp Image 2022-05-08 at 11 31 44 PM](https://github.com/ANIRUDHSHUKLA2003/LockIt/assets/105125569/acc4a2e6-300e-4583-ae1e-7e0634accb64)
+
+
+![1](https://github.com/ANIRUDHSHUKLA2003/LockIt/assets/105125569/ef216c99-8d56-45dd-b254-aefbef3b099b)
+
+![3](https://github.com/ANIRUDHSHUKLA2003/LockIt/assets/105125569/8bd78540-7fdf-4536-b655-20e6eb54bec8)
+
+![4](https://github.com/ANIRUDHSHUKLA2003/LockIt/assets/105125569/01921c13-9ee3-4501-b870-86f78e6ad1f7)
+
+
+![5](https://github.com/ANIRUDHSHUKLA2003/LockIt/assets/105125569/b1389a7f-26a3-4c7f-a077-86388ccae840)
+
+
+![6](https://github.com/ANIRUDHSHUKLA2003/LockIt/assets/105125569/b9605045-aabc-42c6-bf61-b28c6fd1bf11)
+
+![8](https://github.com/ANIRUDHSHUKLA2003/LockIt/assets/105125569/b37793bd-6042-4a8b-a3bb-6009af8c2b54)
+
+![7](https://github.com/ANIRUDHSHUKLA2003/LockIt/assets/105125569/f9e27b7b-1bb5-41e6-8876-0315d968d30a)
+
+
